@@ -1,3 +1,7 @@
+![npm version](https://img.shields.io/npm/v/react-mui-searchbox)
+![license](https://img.shields.io/npm/l/react-mui-searchbox)
+![downloads](https://img.shields.io/npm/dw/react-mui-searchbox)
+
 # MUI Search Component
 
 A powerful, feature-rich search component for React applications built with Material UI. Perfect for implementing search functionality, autocomplete, filtering, and advanced selection capabilities in your React applications.
