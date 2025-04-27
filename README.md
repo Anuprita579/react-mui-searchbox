@@ -1,6 +1,4 @@
 ![npm version](https://img.shields.io/npm/v/react-mui-searchbox)
-![license](https://img.shields.io/npm/l/react-mui-searchbox)
-![downloads](https://img.shields.io/npm/dw/react-mui-searchbox)
 
 # MUI Search Component
 
